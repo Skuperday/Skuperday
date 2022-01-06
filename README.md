@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skuperday
 - 👀 I’m interested in commercial projects
-- 🌱 I’m currently learning Java/flutter/dart
-- 💞️ I’m looking to collaborate on mobile games or smthng else
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to get full-time job as junior backend programmer
 - 📫 How to reach me Skuperday24.24@gmail.com
 
 <!---
