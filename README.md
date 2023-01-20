@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Skuperday
+- 👋 Hi, I’m @Skuperday Java backflip dev
 - 👀 I’m interested in commercial projects
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to get full-time job as junior backend programmer
 - 📫 How to reach me Skuperday24.24@gmail.com
 
 <!---
